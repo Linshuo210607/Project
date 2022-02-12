@@ -26,6 +26,8 @@ int main()
     // I'm writing somrthing but haven't finished yet!
     // TODO:
     
+    printf("Awsome\n");
+
     printf("Hi,Little Ross!");
     test();
     return 0;
