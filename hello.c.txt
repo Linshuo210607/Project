@@ -23,6 +23,9 @@ int devide(int a, int b)
 
 int main()
 {
+    // I'm writing somrthing but haven't finished yet!
+    // TODO:
+    
     printf("Hi,Little Ross!");
     test();
     return 0;
